@@ -20,7 +20,7 @@ Remember that Canvas is the source of truth in regards to the student's status i
 
 Early in the class student work is stored in *repl.it*, while later in the class *github repositories* are used.
 
-1. Exercise Solutions: These are at home practice and are reviewed but **NOT graded**.
+1. Exercise Solutions: These are in class practice and are reviewed but **NOT graded**.
 1. Studio Solutions: In class practice that is reviewed but **NOT graded**.
 1. Graded Assignment Solutions: At home work that **is graded**.
 
@@ -74,10 +74,11 @@ The student's work and data in Canvas can be used to gauge how well the student 
 * Attendance Record
   * If a student doesn't come to class, then they will likely struggle.
 * Concept Checks
-  * These are quizzes in Canvas assigned as prep work.
+  * These are quizzes in Canvas assigned as prep work during reading time.
   * If students consistently get these incorrect, then they are NOT understanding the reading material.
 * Exercises
-  * These are practice problems assigned as prep work.
+  * These are practice problems assigned as prep work for the studio.
+  * These are completed during class.
   * Engage with the students to know if they are attempting these and if they are having success.
 * Graded Assignments
   * This is where students put multiple concepts together to solve a larger problem.

@@ -22,17 +22,25 @@ This content is meant to be a start and not the finish. With these skills studen
 # Class Structure
 
 * Prep work
-  * Tasks student do **at home, before class**
-  * Reading chapters, quizzes, practice exercises
+  * Tasks student do **during assigned reading time**
+  * Reading chapters and quizzes
+  * Lasts 60-90 minutes depending on number of chapters and current topic
 * Primary Instruction
   * Led by the instructor
-  * Lasts 45 minutes to 1 hour
+  * Lasts 1 to 2 hours
+  * Typically followed by lunch break
+* Exercises
+  * Students work independently on exercise problems
+  * Last 1 to 2 hours
+  * Class discussion and review of exercises as needed
 * Studio
-  * Students separate into assigned groups, that are led by a TF
-  * Lasts 1 to 1.5 hours
+  * Students separate into assigned groups
+  * Group work with TF check-ins
+  * Lasts 1 to 2 hours
   * Designed to be **safe practice time** for students with TF support
 * Programming Assignments
   * Graded assignments for which students are given multiple weeks to complete
+  * Typically worked on outside of class, unless provided "open working time" by TF
 
 # Tasks and Responsibilities
 Instructors and TFs are crucial to the success of the students. These tasks help ensure that everyone knows
@@ -77,7 +85,7 @@ TFs will be assigned a group of students to guide.
 ## Students
 
 * Pay attention to assignments in Canvas
-* Do the prep work **before class**
+* Do the prep work **during alloted class time**
 * Attend class and participate in activities
 * Turn in graded assignments on time
 * Do their own work

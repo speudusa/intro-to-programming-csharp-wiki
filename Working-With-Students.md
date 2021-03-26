@@ -5,7 +5,7 @@ Positive and productive communication between instructors, TFs, and students is 
 Students will be looking to instructors, TFs, and the curriculum for knowledge and guidance. Have empathy when speaking to students, and remember that learning to code is not an easy task. Keep in mind that we all learn at different speeds and in different ways. Be supportive and patient as the students demonstrate and describe their issues. Acknowledge their success, listen to their worries, and answer their questions in a clear, attentive, and polite manner.
 
 ## Stand By the Curriculum
-Help LaunchCode make the course better and maintain the students trust in the curriculum by following these rules:
+Help LaunchCode make the course better and maintain the students' trust in the curriculum by following these rules:
 * Please send feedback, suggestions, and bug reports to a LaunchCode staff member
     * [Reporting Issues](https://github.com/LaunchCodeEducation/intro-to-programming-csharp/wiki/Course-Overview-and-Structure#Bug-and-Issue-Reporting)
 * Do not speak negatively of the curriculum in front of the students
