@@ -6,7 +6,7 @@
 1. How to use bracket notation to:
    1. Index into a string or array.
    1. Update array elements.
-1. [6 common string methods](https://education.launchcode.org/intro-to-programming-csharp/chapters/strings/string-methods.html) and [13 common array methods](https://education.launchcode.org/iintro-to-programming-csharp/chapters/arrays/array-methods.html).
+1. [common string methods](https://education.launchcode.org/intro-to-programming-csharp/chapters/strings/string-methods.html) and [common array methods](https://education.launchcode.org/iintro-to-programming-csharp/chapters/arrays/array-methods.html).
 1. How to use string interpolation and how to include newlines (``\n``) and tabs (``\t``) in ``Console.WriteLine`` output.
 1. How to create and access a multi-dimensional array.
 
