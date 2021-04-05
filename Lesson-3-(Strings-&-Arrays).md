@@ -25,7 +25,7 @@
 1. Zero-based indexing
 1. Live code examples for using ``Split`` and ``Join`` to convert between strings and arrays
 1. Students need more practice with the following related to string interpolation:
-   1. Using ``$"{varialbeName}"`` to insert variables.
+   1. Using ``$"{variableName}"`` to insert variables.
 1. Emphasize the difference between what an array method _returns_ vs. how that method affects the original array
 1. As time permits:
    1. Review method chaining.
