@@ -19,3 +19,4 @@ Fork the [wiki repository](https://github.com/LaunchCodeEducation/intro-to-progr
 * [Lesson 1 - Data & Variables](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Lesson-1-(Data-&-Variables))
 * [Lesson 2 - Booleans & Conditionals](https://github.com/LaunchCodeEducation/intro-to-programming-csharp/wiki/Lesson-2-(Booleans-&-Conditionals-&-Debugging))
 * [Lesson 3 - Strings & Arrays](https://github.com/LaunchCodeEducation/intro-to-programming-csharp/wiki/Lesson-3-(Strings-&-Arrays))
+* [Lesson 4 - Iteration](https://github.com/LaunchCodeEducation/intro-to-programming-csharp/wiki/Lesson-4-(Iteration))

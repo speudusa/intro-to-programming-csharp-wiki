@@ -14,7 +14,7 @@
 * The book is open source, please create github issues on the [github repo](https://github.com/LaunchCodeEducation/intro-to-programming-csharp/issues) to provide direct feedback.
 
 ## Repl.it
-* [Repl.it](https://repl.it/repls) is an online code editor and code executing environment.
+* [Repl.it](https://replit.com/) is an online code editor and code executing environment.
 * Code can be shared via the URL and forked for modification
 * Used for coding examples, code practice, and as the students first coding environment
 * Instructors, TFs, and students will need to create their own accounts.
@@ -31,4 +31,4 @@
 The online course book contains short tutorials for the students on how to use Canvas and repl.it.
 * [Introduction to Canvas](https://education.launchcode.org/intro-to-programming-csharp/chapters/introduction/class-platforms.html)
 * [Introduction to repl.it](https://education.launchcode.org/intro-to-programming-csharp/chapters/introduction/class-platforms.html#repl-it)
-* [Creating a repl.it account](https://education.launchcode.org/intro-to-programming-csharp/chapters/how-programs-work/hello-world.html#create-a-repl-it-account)
+* [Creating a replit.com account](https://education.launchcode.org/intro-to-programming-csharp/chapters/how-programs-work/hello-world.html#create-a-repl-it-account)

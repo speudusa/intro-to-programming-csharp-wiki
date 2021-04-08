@@ -23,22 +23,20 @@ This content is meant to be a start and not the finish. With these skills studen
 
 * Prep work
   * Tasks student do **during assigned reading time**
-  * Reading chapters and quizzes
-  * Lasts 60-90 minutes depending on number of chapters and current topic
+  * Reading chapters and concept checks
 * Primary Instruction
   * Led by the instructor
-  * Lasts 1 to 2 hours
-  * Typically followed by lunch break
+  * Includes lecture and live coding examples
 * Exercises
-  * Students work independently on exercise problems
-  * Last 1 to 2 hours
+  * Students work independently or in small groups
   * Class discussion and review of exercises as needed
 * Studio
   * Students separate into assigned groups
   * Group work with TF check-ins
-  * Lasts 1 to 2 hours
   * Designed to be **safe practice time** for students with TF support
+  * Class discussion and review as needed
 * Programming Assignments
+  * Completed independently
   * Graded assignments for which students are given multiple weeks to complete
   * Typically worked on outside of class, unless provided "open working time" by TF
 
