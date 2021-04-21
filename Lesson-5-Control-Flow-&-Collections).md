@@ -1,0 +1,39 @@
+# Lesson 5: Control Flow and Collections
+
+## In the prep work this week, the students learned
+
+1. The C# syntax for conditionals and loops:
+    1. if, else, if/else
+    1. switch statements
+    1. for, while, and do...while
+    1. break and continue statements
+1. How and when to use list, array, and dictionary collections.
+
+## Announcements
+
+1. Remind students that Graded Assignment #1 is due soon! They should be able to complete it after today's class.
+1. Check with your class Candidate Engagement Manager for any other announcements.
+
+## Large Group Time (Instructor)
+
+### Lesson 5 Topics That Require Careful Attention
+
+1. The *fallthrough* aspect of ``switch`` statements is not always obvious and should be reviewed. However, do not sink too much time into this, since the students will use ``if/else`` statements much more often than ``switch``.
+1. Ask the students to explain the difference between ``while`` and ``do...while`` loops.
+1. Review how to use ``break`` and ``continue`` statements within loops.
+1. Review ``foreach`` loops in the context of array and list collections. Note
+how the syntax changes when applied to dictionaries.
+1. As much as possible, live-code examples for lists and dictionaries, including how to use the most common methods.
+
+### Lesson 5 Studio (TA Notes)
+
+1. With your group, discuss the "Some Items to Ponder Before Starting" section of the studio instructions.
+1. Remember to check in with EVERY student during the studio time.
+    1. As they code the studio, ask them to explain what different portions of their code does.
+1. Common mistakes:
+    1. Not properly setting up the ``Main`` method.
+    1. Forgetting to import the necessary classes (e.g. List).
+    1. Even though dictionaries are the better option, many students will try to use arrays or lists because they see them as being easier. While the students could make these collections work, be prepared to talk about the differences between the different types of collections and why dictionaries would be the better option.
+1. Be sure to do a visual check of your students' code.
+1. For the students who finish early, ask guided questions to encourage them to try one or more of the bonus tasks (e.g. "How could you modify your code to count 'a' and 'A' as the same letter?").
+1. Remind your students to submit their work through Canvas.
