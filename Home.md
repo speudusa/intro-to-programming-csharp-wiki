@@ -20,3 +20,5 @@ Fork the [wiki repository](https://github.com/LaunchCodeEducation/intro-to-progr
 * [Lesson 2 - Booleans & Conditionals](https://github.com/LaunchCodeEducation/intro-to-programming-csharp/wiki/Lesson-2-(Booleans-&-Conditionals-&-Debugging))
 * [Lesson 3 - Strings & Arrays](https://github.com/LaunchCodeEducation/intro-to-programming-csharp/wiki/Lesson-3-(Strings-&-Arrays))
 * [Lesson 4 - Iteration](https://github.com/LaunchCodeEducation/intro-to-programming-csharp/wiki/Lesson-4-(Iteration))
+* [Lesson 5 - Control Flow & Collections](https://github.com/LaunchCodeEducation/intro-to-programming-csharp/wiki/Lesson-5-(Control-Flow-&-Collections))
+* [Lesson 6 - Methods](https://github.com/LaunchCodeEducation/intro-to-programming-csharp/wiki/Lesson-6-(Methods))
