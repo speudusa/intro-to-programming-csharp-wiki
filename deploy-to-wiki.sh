@@ -4,10 +4,10 @@
 # WARNING: This script assumes you have added a remote named upstream that points to git@github.com:LaunchCodeEducation/intro-to-programming-csharp.wiki.git
 # If you haven't, please run this command: git remote add upstream git@github.com:LaunchCodeEducation/intro-to-programming-csharp.wiki.git
 
-# WARNING: It's possible that pulling in master from origin or upstream could cause merge conflicts. You will need to resove those.
+# WARNING: It's possible that pulling in main from origin or upstream could cause merge conflicts. You will need to resove those.
 
 
-echo "Updating with master then deploying"
+echo "Updating with main then deploying"
 git checkout master
 git fetch origin
 git merge master --no-edit
