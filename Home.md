@@ -22,3 +22,4 @@ Fork the [wiki repository](https://github.com/LaunchCodeEducation/intro-to-progr
 * [Lesson 4 - Iteration](https://github.com/LaunchCodeEducation/intro-to-programming-csharp/wiki/Lesson-4-(Iteration))
 * [Lesson 5 - Control Flow & Collections](https://github.com/LaunchCodeEducation/intro-to-programming-csharp/wiki/Lesson-5-(Control-Flow-&-Collections))
 * [Lesson 6 - Methods](https://github.com/LaunchCodeEducation/intro-to-programming-csharp/wiki/Lesson-6-(Methods))
+* [Lesson 7 - Terminal & Git](https://github.com/LaunchCodeEducation/intro-to-programming-csharp/wiki/Lesson-6-(Terminal-&-Git))
