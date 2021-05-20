@@ -7,7 +7,7 @@
 # WARNING: It's possible that pulling in main from origin or upstream could cause merge conflicts. You will need to resove those.
 
 
-echo "Updating with main then deploying"
+echo "Updating with master then deploying"
 git checkout master
 git fetch origin
 git merge master --no-edit

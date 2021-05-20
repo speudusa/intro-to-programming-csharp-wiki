@@ -24,3 +24,4 @@ Fork the [wiki repository](https://github.com/LaunchCodeEducation/intro-to-progr
 * [Lesson 6 - Methods](https://github.com/LaunchCodeEducation/intro-to-programming-csharp/wiki/Lesson-6-(Methods))
 * [Lesson 7 - Terminal & Git](https://github.com/LaunchCodeEducation/intro-to-programming-csharp/wiki/Lesson-7-(Terminal-&-Git))
 * [Lesson 8 - Exceptions & Visual Studio Tools](https://github.com/LaunchCodeEducation/intro-to-programming-csharp/wiki/Lesson-8-(Exceptions-&-VS-Tools))
+* [Lesson 9 - Classes Part 1](https://github.com/LaunchCodeEducation/intro-to-programming-csharp/wiki/Lesson-9-(Classes-Part-1))
