@@ -9,7 +9,14 @@
 1. How to structure static HTML pages:
    1. doctype, ``<html>, <head>, <body>, <title>``
    1. Whitespace
+   
+## In the prep work this week (CSS), the students learned:
 
+1. CSS:
+   1. Syntax.
+   1. How to set font-size, color, font-family, background-color, text-align, etc.
+   1. Assign styles to an element, class, or ID.
+   1. Internal vs. inline vs. external locations.
 
 ## Large Group Time (Instructor Notes)
 
@@ -18,7 +25,7 @@
 1. Start working on graded assignment #4.
 1. Check with your class Candidate Engagement Manager for any other announcements.
 
-### Lesson 12 Topics That Require More Attention
+### HTML Topics That Require More Attention
 
 1. Don't be afraid to use the terminal!
 1. Live coding:
@@ -29,6 +36,18 @@
    1. If time, initialize a simple git repo for the web page you created. Show how edits (or mistakes) can be undone with git.
 1. Studio intro. Task uses browser developer tools.
 1. Graded Assignment #4 is open! Remind students that the key to getting the assignment done is to read through everything carefully and start on what you can do as soon as possible. In class, read through the instructions with your students and highlight what they are capable of doing after this class.
+
+### CSS Topics That Require More Attention 
+
+1. Review the differences between using element selectors, class selectors, and id selectors in CSS.
+    1. What is the sequence in priority?
+1. Discuss CSS vs. inline styling. What is the best practice?
+
+1. Live coding:
+    1. If you saved the HTML page from lesson 12, use that as a starting point for adding some CSS.
+    1. Recall the tedious aspects of HTML design from lesson 12. Note how CSS streamlines the process.
+    1. Save and commit changes, then push to a remote GitHub repository.
+1. Studio intro.
 
 ## Studio (TF Notes)
 
