@@ -20,8 +20,8 @@
 ### Lesson 3 Topics That Require More Attention
 
 1. There are 2 open ended Check Your Understanding questions in the strings chapter. Spend time discussing each one:
-   1. Given ``word = 'Rutabaga'``, why does ``word.length`` return the integer 8, but ``word[8]`` is undefined?
-   1. Given ``pet = 'cat'``, why do the statements ``console.log(pet + 's');`` and ``pet += 's';`` NOT violate the immutability of strings?
+   1. Given ``word = "Rutabaga"``, why does ``word.Length`` return the integer 8, but ``word[8]`` is undefined?
+   1. Given ``pet = "cat"``, why do the statements ``Console.WriteLine(pet + "s");`` and ``pet += "s";`` NOT violate the immutability of strings?
 1. Zero-based indexing
 1. Live code examples for using ``Split`` and ``Join`` to convert between strings and arrays
 1. Students need more practice with the following related to string interpolation:
