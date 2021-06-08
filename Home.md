@@ -28,3 +28,4 @@ Fork the [wiki repository](https://github.com/LaunchCodeEducation/intro-to-progr
 * [Lesson 10 - Classes Part 2](https://github.com/LaunchCodeEducation/intro-to-programming-csharp/wiki/Lesson-10-(Classes-Part-2))
 * [Lesson 11 - Unit Testing](https://github.com/LaunchCodeEducation/intro-to-programming-csharp/wiki/Lesson-11-(Unit-Testing))
 * [Lesson 12 - Inheritance](https://github.com/LaunchCodeEducation/intro-to-programming-csharp/wiki/Lesson-12-(Inheritance))
+* [Lesson 13 - Interfaces](https://github.com/LaunchCodeEducation/intro-to-programming-csharp/wiki/Lesson-12-(Interfaces))
