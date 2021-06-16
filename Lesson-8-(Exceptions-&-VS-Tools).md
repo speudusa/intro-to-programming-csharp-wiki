@@ -29,7 +29,7 @@
 
 ## Studio (TF Notes)
 
-### Lesson 10 Studio
+### Lesson 8 Studio
 
 1. Don't be afraid to share your own experience!
 1. This studio is aimed on helping people develop processes for more strategically debugging their code. If they still struggle with debugging after this studio, gently remind them of the topics covered here.
