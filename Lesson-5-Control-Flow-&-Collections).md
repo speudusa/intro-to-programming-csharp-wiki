@@ -1,6 +1,6 @@
 # Lesson 5: Control Flow and Collections
 
-## In the prep work this week, the students learned
+## In the prep work for this lesson, the students learned
 
 1. The C# syntax for conditionals and loops:
     1. if, else, if/else
@@ -11,8 +11,24 @@
 
 ## Announcements
 
-1. Remind students that Graded Assignment #1 is due soon! They should be able to complete it after today's class.
-1. Check with your class Candidate Engagement Manager for any other announcements.
+* Check with your class Candidate Engagement Manager for any other announcements.
+
+### Part-Time Students
+* If the due date for the first graded assignment has NOT already passed, remind students of the due date for the first graded assignment.
+* The grade for your first graded assignment will appear in Canvas.
+* Graded Assignment #2 is open! Remind students that the key to getting the assignment done is to read through everything carefully and start on what you can do as soon as possible. In class, read through the instructions with your students and highlight what they are capable of doing after this class.
+
+### Full-Time Students
+* Welcome to Days 5, 6, & 7!
+* **Day 5**:
+    * Lesson 5 Prep work in the morning.
+    * Graded Assignment 1: Introduce and Work Time in afternoon.
+        * Part 1 due at end of Day 5.
+        * Parts 2 & 3 due at end of Day 8.
+* **Day 6**: 
+    * Assignment 1 work time in the morning
+    * Lesson 5 lecture and studio in the afternoon.
+* **Day 7**: Assignment 1 Work Day.
 
 ## Large Group Time (Instructor)
 

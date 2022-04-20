@@ -1,6 +1,6 @@
 # Lesson 6: Methods
 
-## In the prep work this week, the students learned:
+## In the prep work for this lesson, the students learned:
 1. What a method is.
 1. What a parameter is.
 1. What an argument is.
@@ -14,7 +14,15 @@
 
 ## Announcements
 1. Check with your class Candidate Engagement Manager for any announcements!
+
+### Part-Time Students
 1. If the due date for the first graded assignment has NOT already passed, remind students of the due date for the first graded assignment.
+
+
+### Full-Time Students
+* Welcome to Day 8!
+* Graded Assignment 1 is due at the end of class today!.
+
 
 ## Large Group Time (Instructor)
 ### Reminders
