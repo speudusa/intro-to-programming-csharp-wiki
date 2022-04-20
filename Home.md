@@ -16,7 +16,7 @@ Fork the [wiki repository](https://github.com/LaunchCodeEducation/intro-to-progr
 
 ## Lesson Specific Guides
 
-* [Lesson 1 - Data & Variables](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Lesson-1-(Data-&-Variables))
+* [Lesson 1 - Data & Variables](https://github.com/LaunchCodeEducation/intro-to-programming-csharp/wiki/Lesson-1-(Data-&-Variables))
 * [Lesson 2 - Booleans & Conditionals](https://github.com/LaunchCodeEducation/intro-to-programming-csharp/wiki/Lesson-2-(Booleans-&-Conditionals-&-Debugging))
 * [Lesson 3 - Strings & Arrays](https://github.com/LaunchCodeEducation/intro-to-programming-csharp/wiki/Lesson-3-(Strings-&-Arrays))
 * [Lesson 4 - Iteration](https://github.com/LaunchCodeEducation/intro-to-programming-csharp/wiki/Lesson-4-(Iteration))
@@ -28,6 +28,6 @@ Fork the [wiki repository](https://github.com/LaunchCodeEducation/intro-to-progr
 * [Lesson 10 - Classes Part 2](https://github.com/LaunchCodeEducation/intro-to-programming-csharp/wiki/Lesson-10-(Classes-Part-2))
 * [Lesson 11 - Unit Testing](https://github.com/LaunchCodeEducation/intro-to-programming-csharp/wiki/Lesson-11-(Unit-Testing))
 * [Lesson 12 - Inheritance](https://github.com/LaunchCodeEducation/intro-to-programming-csharp/wiki/Lesson-12-(Inheritance))
-* [Lesson 13 - Interfaces](https://github.com/LaunchCodeEducation/intro-to-programming-csharp/wiki/Lesson-12-(Interfaces))
-* [Lesson 14 - HTML & CSS](https://github.com/LaunchCodeEducation/intro-to-programming-csharp/wiki/Lesson-12-(HTML-CSS))
-* [Lesson 15 - HTTP & Forms](https://github.com/LaunchCodeEducation/intro-to-programming-csharp/wiki/Lesson-12-(HTTP-&-Forms))
+* [Lesson 13 - Interfaces](https://github.com/LaunchCodeEducation/intro-to-programming-csharp/wiki/Lesson-13-(Interfaces))
+* [Lesson 14 - HTML & CSS](https://github.com/LaunchCodeEducation/intro-to-programming-csharp/wiki/Lesson-14-(HTML-CSS))
+* [Lesson 15 - HTTP & Forms](https://github.com/LaunchCodeEducation/intro-to-programming-csharp/wiki/Lesson-15-(HTTP-&-Forms))
