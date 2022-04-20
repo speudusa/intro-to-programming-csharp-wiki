@@ -1,6 +1,6 @@
 # Lesson 10: Classes, Part 2
 
-## In the prep work this week, the students learned
+## In the prep work for this lesson, the students learned
 
 1. How to customize fields with the keywords ``readonly`` and ``static``.
 1. How to add methods to a class and call those methods.
@@ -10,8 +10,13 @@
 
 ## Announcements
 
-1. The class 5 prep work should be active by the end of class.
-1. Graded Assignment 2 is open, and it is due soon. Keep working on your project! After today, you will have enough skill to make significant progress.
+1. Check with your course manager for any additional announcements.
+
+### Full-Time Students
+* Welcome to Day 14!
+* Lesson 11
+* Try to have some time after studio for Assignment 2 work time
+* Assignment 2 due at end of Day 15.
 
 ## Large Group Time (Instructor)
 

@@ -8,12 +8,26 @@
 1. How to create and submit HTML forms.
 1. Common input types and attributes.
 
-## Large Group Time (Instructor Notes)
-
-### Announcements
+## Announcements
 
 1. Continue working on graded assignment #4.
 1. Check with your class Candidate Engagement Manager for any other announcements.
+
+### Full-Time Students
+* Welcome to Days 22 - 25!
+    * **Day 22**:
+        * Lesson 15
+    * ** Day 23**:
+        * Assignment 4 Work Day
+        * Assignment 4 due at end of day 24
+    * **Day 24**:
+        * Unit 1 recap and any Unit 2 set up
+    * **Day 25**:
+        * Flex day to catch up on work or set up for Unit 2
+        * All C# Unit 1 assignments due by end of today
+
+
+## Large Group Time (Instructor Notes)
 
 ### Topics That Require More Attention
 

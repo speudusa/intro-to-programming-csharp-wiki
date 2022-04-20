@@ -1,6 +1,6 @@
 # Lesson 11: Unit Testing
 
-## In the prep work this week, the students learned
+## In the prep work for this lesson, the students learned
 
 1. Some good practices for writing unit tests, some review from previous learning:
 
@@ -17,9 +17,24 @@
 
 ## Announcements
 
-1. The class 6 prep work should be active by the end of class
-1. Graded Assignment #3 is open and students will now know how to set up the
-   scaffolding for the testing portion of the assignment
+1. Graded Assignment #3 is open and students will now know how to set up the scaffolding for the testing portion of the assignment
+
+### Full-Time Students
+* Welcome to Days 15, 16, & 17!
+   * **Day 15**:
+      * Lesson 11 prep work only before lunch
+      * Assignment 3 Intro and Work time in the afternoon
+         * Assignment 3 due at end of Day 21
+         * Days 15-18 have built-in work Assignment 3 work time
+      * Assignment 2 due at end of today
+   * **Day 16**:
+      * Assignment 3 Work time before lunch
+      * Lesson 11 lecture & studio
+   * **Day 17**:
+      * Self Assessment 2 before lunch
+      * Assignment 3 work time after lunch
+       
+
 
 ## Large Group Time (Instructor)
 

@@ -1,6 +1,6 @@
 # Lesson 7: Terminal & Git Basics
 
-## In the prep work this week (Terminal and Git), the students learned:
+## In the prep work for this lesson, the students learned:
 
 1. Terminal:
    1. How to access and use the terminal as a standalone program and through VS.
@@ -13,12 +13,28 @@
    1. Create and merge branches.
    1. How to stash changes.
 
-## Large Group Time (Instructor Notes)
+
 
 ### Announcements
 
 1. Assignment Check-in:  
 1. Check with your class Candidate Engagement Manager for any other announcements.
+
+### Part-Time Students:
+
+
+### Full-Time Students:
+* Welcome to Days 9 & 10
+   * **Day 9**: Cover Lesson 7
+   * **Day 10**: Work Day
+      * *Self Assessment 1*: Remind students that this is NOT an exam. This is for students to see which concepts they know and which concepts they should review. This is the first self-assessment in the course so it would be good to make sure before starting that students know where they can find the solution guide and the best practices guide in Canvas so they can start reviewing their answers right after they complete the questions.
+      * *Graded Assignment 2*:
+         * Introduce after the Self-Assessment. 
+         * Days 10 and 12 are dedicated work days for Assignment 2. 
+         * Due at end of Day 15.
+
+
+## Large Group Time (Instructor Notes)
 
 ### Lesson 7 Topics That Require More Attention
 

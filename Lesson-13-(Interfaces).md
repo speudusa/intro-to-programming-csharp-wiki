@@ -1,6 +1,6 @@
 # Lesson 12: Interfaces and Polymorphism
 
-## In the prep work this week, the students learned
+## In the prep work for this lesson, the students learned
 1. What polymorphism is.
 1. What interfaces are and the difference between interfaces and abstract classes.
 1. Different interfaces that are a part of C#, and how they can be used in our code.
@@ -9,6 +9,9 @@
 ## Announcements
 1. Continue working on Graded Assignment #3. 
 1. Check with your course manager for any important announcements.
+
+### Full-Time Students
+* Welcome to Day 19!
 
 ## Large Group Time (Instructor)
 

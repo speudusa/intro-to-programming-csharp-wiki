@@ -1,6 +1,6 @@
 # Lesson 9: Classes Part 1
 
-## In the prep work this week, the students learned:
+## In the prep work for this lesson, the students learned:
 
 1. What a class is in C# and how instantiating classes creates objects in Visual Studio.
 1. Review the difference between fields and methods.
@@ -12,6 +12,12 @@
 ## Announcements
 
 1. Check with your course manager for any additional announcements.
+
+### Full-Time Students
+
+* Welcome to Day 13!
+* Some afternoon work time for Assignment 2 on Day 14
+* Assignment 2 due at end of Day 15
 
 ## Large Group Time (Instructor)
 

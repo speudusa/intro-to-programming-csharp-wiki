@@ -1,6 +1,6 @@
 # Lesson 8: Exceptions and VS Tools
 
-## In the prep work this week, the students learned:
+## In the prep work for this lesson, the students learned:
 
 1. What exceptions are.
 1. How to raise an exception.
@@ -12,6 +12,11 @@
 
 1. More info to come... when in doubt, check with your class Candidate Engagement Manager!
 1. The third graded assignment opens after this class! Remember to start looking at it when it opens!
+
+### Full-Time Students
+* Welcome to Days 11 & 12!
+   * **Day 11**: Lesson 8
+   * **Day 12**: Assignment 2 Work Day 
 
 ## Large Group Time (Instructor)
 
