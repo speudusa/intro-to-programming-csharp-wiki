@@ -1,4 +1,4 @@
-# Lesson 2: Conditionals and Debugging
+# Lesson 2: Booleans, Conditionals, and Debugging
 
 ## In the prep work for this lesson, the students learned:
 
