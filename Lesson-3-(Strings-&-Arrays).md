@@ -15,7 +15,7 @@
 * Check with your class Candidate Engagement Manager for any announcements.
 
 ### Full-Time Students
-* Welcome to Day 3!
+* Welcome to Day 3
 
 ## Large Group Time (Instructor Notes) 
 
