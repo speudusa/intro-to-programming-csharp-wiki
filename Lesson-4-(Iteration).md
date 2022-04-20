@@ -1,6 +1,6 @@
 # Lesson 4: Iteration
 
-## In the prep work this week, the students learned:
+## In the prep work for this lesson, the students learned:
 
 1. How to write ``for`` and ``while`` loops:
    1. Proper syntax
@@ -11,12 +11,18 @@
    1. Input validation
 1. The accumulator pattern.
 
+## Announcements
+
+* After this class, the students will have all the skills necessary to complete the assignment.
+* Check with your class Candidate Engagement Manager for any announcements.
+
+### Part-Time Students
+* Reminder of the due date for the first graded assignment.
+
+### Full-Time Students
+* Welcome to Day 4!
+
 ## Large Group Time (Instructor Notes)
-
-### Announcements
-
-1. Reminder of the due date for the first graded assignment.
-1. After this class, the students will have all the skills necessary to complete the assignment.
 
 ### Lesson 4 Topics That Require More Attention
 

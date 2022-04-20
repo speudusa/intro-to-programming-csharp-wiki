@@ -1,6 +1,6 @@
 # Lesson 2: Conditionals and Debugging
 
-## In the prep work this week, the students learned:
+## In the prep work for this lesson, the students learned:
 
 1. The boolean data type and boolean expressions
 1. Logical operators (``>``, ``<``, etc.) and ``==`` 
@@ -10,12 +10,19 @@
 1. How to use ``Console.WriteLine`` to help debug code
 1. How to use ``TryParse`` to help with user input
 
+## Announcements
+
+* Check with your class Candidate Engagement Manager for any announcements.
+
+### Part-Time Students
+* Note the due date for the first graded assignment (should be 2 - 4 weeks away).
+* The assignment will be active in Canvas soon, and the students will know enough after lesson 2 to begin the first part of the assignment.
+
+### Full-Time Students
+* Welcome to Day 2!
+* Assignment 1 will be introduced on Day 5
+
 ## Large Group Time (Instructor Notes)
-
-### Announcements
-
-1. Note the due date for the first graded assignment (should be 2 - 4 weeks away).
-1. The assignment will be active in Canvas soon, and the students will know enough after lesson 2 to begin the first part of the assignment.
 
 ### Lesson 2 Topics That Require More Attention
 
