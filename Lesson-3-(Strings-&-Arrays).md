@@ -18,7 +18,7 @@
 1. Remind students of the due date for the first graded assignment.
 
 ### Full-Time Students
-* Welcome to Day 3!
+* Welcome to Day 3
 
 ## Large Group Time (Instructor Notes) 
 
