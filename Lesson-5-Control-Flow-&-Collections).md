@@ -13,11 +13,6 @@
 
 * Check with your class Candidate Engagement Manager for any other announcements.
 
-### Part-Time Students
-* If the due date for the first graded assignment has NOT already passed, remind students of the due date for the first graded assignment.
-* The grade for your first graded assignment will appear in Canvas.
-* Graded Assignment #2 is open! Remind students that the key to getting the assignment done is to read through everything carefully and start on what you can do as soon as possible. In class, read through the instructions with your students and highlight what they are capable of doing after this class.
-
 ### Full-Time Students
 * Welcome to Days 5, 6, & 7!
 * **Day 5**:

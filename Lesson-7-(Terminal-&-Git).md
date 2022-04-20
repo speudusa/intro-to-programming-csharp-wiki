@@ -20,9 +20,6 @@
 1. Assignment Check-in:  
 1. Check with your class Candidate Engagement Manager for any other announcements.
 
-### Part-Time Students:
-
-
 ### Full-Time Students:
 * Welcome to Days 9 & 10
    * **Day 9**: Cover Lesson 7

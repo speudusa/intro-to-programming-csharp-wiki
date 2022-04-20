@@ -15,10 +15,6 @@
 ## Announcements
 1. Check with your class Candidate Engagement Manager for any announcements!
 
-### Part-Time Students
-1. If the due date for the first graded assignment has NOT already passed, remind students of the due date for the first graded assignment.
-
-
 ### Full-Time Students
 * Welcome to Day 8!
 * Graded Assignment 1 is due at the end of class today!.

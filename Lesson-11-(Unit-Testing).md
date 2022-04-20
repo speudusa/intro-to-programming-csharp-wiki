@@ -20,7 +20,7 @@
 1. Graded Assignment #3 is open and students will now know how to set up the scaffolding for the testing portion of the assignment
 
 ### Full-Time Students
-* Welcome to Days 15, 16, & 17!
+* Welcome to Days 15, 16, & 17
    * **Day 15**:
       * Lesson 11 prep work only before lunch
       * Assignment 3 Intro and Work time in the afternoon

@@ -15,7 +15,7 @@
 
 ### Full-Time Students
 
-* Welcome to Day 13!
+* Welcome to Day 13
 * Some afternoon work time for Assignment 2 on Day 14
 * Assignment 2 due at end of Day 15
 

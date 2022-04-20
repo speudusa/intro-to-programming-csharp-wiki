@@ -11,7 +11,7 @@
 1. Check with your course manager for any important announcements.
 
 ### Full-Time Students
-* Welcome to Day 19!
+* Welcome to Day 19
 
 ## Large Group Time (Instructor)
 

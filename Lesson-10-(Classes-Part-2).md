@@ -13,7 +13,7 @@
 1. Check with your course manager for any additional announcements.
 
 ### Full-Time Students
-* Welcome to Day 14!
+* Welcome to Day 14
 * Lesson 11
 * Try to have some time after studio for Assignment 2 work time
 * Assignment 2 due at end of Day 15.

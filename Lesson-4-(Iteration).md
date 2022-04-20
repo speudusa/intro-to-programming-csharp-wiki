@@ -13,11 +13,7 @@
 
 ## Announcements
 
-* After this class, the students will have all the skills necessary to complete the assignment.
 * Check with your class Candidate Engagement Manager for any announcements.
-
-### Part-Time Students
-* Reminder of the due date for the first graded assignment.
 
 ### Full-Time Students
 * Welcome to Day 4!

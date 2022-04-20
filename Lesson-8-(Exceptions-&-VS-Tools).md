@@ -14,7 +14,7 @@
 1. The third graded assignment opens after this class! Remember to start looking at it when it opens!
 
 ### Full-Time Students
-* Welcome to Days 11 & 12!
+* Welcome to Days 11 & 12
    * **Day 11**: Lesson 8
    * **Day 12**: Assignment 2 Work Day 
 

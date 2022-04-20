@@ -8,7 +8,7 @@
 
 
 ### Full-Time Students
-* Welcome to Day 1!
+* Welcome to Day 1
 * Prep work for day 1 was assigned prior to start of class
 
 ## Large Group Time (Instructor)

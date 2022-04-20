@@ -10,12 +10,9 @@
 1. How to use string interpolation and how to include newlines (``\n``) and tabs (``\t``) in ``Console.WriteLine`` output.
 1. How to create and access a multi-dimensional array.
 
-### Announcements
+## Announcements
 
 * Check with your class Candidate Engagement Manager for any announcements.
-
-### Part-Time Students
-1. Remind students of the due date for the first graded assignment.
 
 ### Full-Time Students
 * Welcome to Day 3!

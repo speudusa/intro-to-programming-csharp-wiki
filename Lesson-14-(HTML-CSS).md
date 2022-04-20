@@ -24,7 +24,7 @@
 1. Check with your class Candidate Engagement Manager for any other announcements.
 
 ### Full-Time Students
-* Welcome to Days 20 & 21!
+* Welcome to Days 20 & 21
    * **Day 20**:
       * Assignment 3 work time before lunch
       * Lesson 14 prep work after lunch

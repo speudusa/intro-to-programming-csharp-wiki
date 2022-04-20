@@ -14,7 +14,7 @@
 1. Check with your class Candidate Engagement Manager for any other announcements.
 
 ### Full-Time Students
-* Welcome to Days 22 - 25!
+* Welcome to Days 22 - 25
     * **Day 22**:
         * Lesson 15
     * ** Day 23**:

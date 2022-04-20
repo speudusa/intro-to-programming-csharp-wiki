@@ -12,7 +12,7 @@
 1. Students should be actively working on Assignment 3.
 
 ### Full-Time Students
-* Welcome to Day 18!
+* Welcome to Day 18
 * Afternoon time for Assignment 3 work
 * Assignment 3 due at end of day 21
 

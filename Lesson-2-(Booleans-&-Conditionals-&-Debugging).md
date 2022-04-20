@@ -14,10 +14,6 @@
 
 * Check with your class Candidate Engagement Manager for any announcements.
 
-### Part-Time Students
-* Note the due date for the first graded assignment (should be 2 - 4 weeks away).
-* The assignment will be active in Canvas soon, and the students will know enough after lesson 2 to begin the first part of the assignment.
-
 ### Full-Time Students
 * Welcome to Day 2!
 * Assignment 1 will be introduced on Day 5
