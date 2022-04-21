@@ -6,7 +6,6 @@
 ## Announcements
 1. Welcome! First day pep talk
 
-
 ### Full-Time Students
 * Welcome to Day 1
 * Prep work for day 1 was assigned prior to start of class

@@ -1,6 +1,6 @@
 # Lesson 15: HTTP and Forms
 
-## In the prep work this week (HTTP and Forms), the students learned:
+## In the prep work for this lesson, the students learned:
 
 1. How the internet works.
 1. The different parts of a URL.

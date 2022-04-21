@@ -11,7 +11,6 @@
 1. How to use ``TryParse`` to help with user input
 
 ## Announcements
-
 * Check with your class Candidate Engagement Manager for any announcements.
 
 ### Full-Time Students
