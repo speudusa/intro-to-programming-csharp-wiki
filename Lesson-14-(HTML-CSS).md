@@ -12,11 +12,10 @@
    
 ## In the prep work for this lesson (CSS), the students learned:
 
-1. CSS:
-   1. Syntax.
-   1. How to set font-size, color, font-family, background-color, text-align, etc.
-   1. Assign styles to an element, class, or ID.
-   1. Internal vs. inline vs. external locations.
+1. Syntax.
+1. How to set font-size, color, font-family, background-color, text-align, etc.
+1. Assign styles to an element, class, or ID.
+1. Internal vs. inline vs. external locations.
 
 ## Announcements
 
@@ -36,15 +35,13 @@
 
 ### HTML Topics That Require More Attention
 
-1. Don't be afraid to use the terminal!
 1. Live coding:
    1. Build a simple, static web page from scratch.
    1. Accept suggestions from the students for elements, text color, etc.
-   1. Note tedious aspects as they appear (e.g. making EVERY h2 red), and note that we will learn how to streamline this process in the next class.
+   1. Note tedious aspects as they appear (e.g. making EVERY h2 red), and note that we will learn how to streamline this process in the next chapter.
 1. Reinforce why using a VS is a good idea. If you have a personal story that relates to this, feel free to share it!
-   1. If time, initialize a simple git repo for the web page you created. Show how edits (or mistakes) can be undone with git.
 1. Studio intro. Task uses browser developer tools.
-1. Graded Assignment #4 is open! Remind students that the key to getting the assignment done is to read through everything carefully and start on what you can do as soon as possible. In class, read through the instructions with your students and highlight what they are capable of doing after this class.
+1. Graded Assignment #4 is open! Remind students that the key to getting the assignment done is to read through everything carefully and start on what you can do as soon as possible. In class, read through the instructions with your students and highlight what they are capable of doing after this lesson's topic.
 
 ### CSS Topics That Require More Attention 
 
@@ -53,9 +50,9 @@
 1. Discuss CSS vs. inline styling. What is the best practice?
 
 1. Live coding:
-    1. If you saved the HTML page from lesson 12, use that as a starting point for adding some CSS.
-    1. Recall the tedious aspects of HTML design from lesson 12. Note how CSS streamlines the process.
-    1. Save and commit changes, then push to a remote GitHub repository.
+    1. If you saved the HTML page from the HTML exercises, use that as a starting point for adding some CSS.
+    1. Recall the tedious aspects of HTML design from the HTML exercises. Note how CSS streamlines the process.
+    1. Save and commit changes, then push to a remote GitHub repository.  You can use whatever HTML project you make for the CSS in the next
 1. Studio intro.
 
 ## Studio (TF Notes)
