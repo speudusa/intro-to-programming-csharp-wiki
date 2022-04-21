@@ -23,19 +23,23 @@ This content is meant to be a start and not the finish. With these skills studen
 
 * Prep work
   * Tasks student do **during assigned reading time**
-  * Reading chapters and concept checks
+  * Inlcudes:
+    * Reading chapters
+    * Completing concept checks
+    * Working on/completing exercises
+
 * Primary Instruction
   * Led by the instructor
   * Includes lecture and live coding examples
-* Exercises
-  * Students work independently or in small groups
-  * Class discussion and review of exercises as needed
+  * Recap prep work as needed
+
 * Studio
   * Students separate into assigned groups
   * Group work with TF check-ins
   * Designed to be **safe practice time** for students with TF support
   * Class discussion and review as needed
-* Programming Assignments
+
+* Graded Programming Assignments (Graded Assignments)
   * Completed independently
   * Graded assignments for which students are given multiple weeks to complete
   * Typically worked on outside of class, unless provided "open working time" by TF
@@ -57,16 +61,19 @@ their role in the process.
   * Contact LC staff by Slack, email, or phone.
   * LC staff needs to know about issues with: students, TFs, facilities, curriculum, course tools
     * [For issues requiring changes to the curriculum material, including bugs](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Course-Overview-and-Structure#Bug-and-Issue-Reporting)
+
 * Facilitate large group(full class) activities
   * Examples
     * What to review/demo in primary instruction
     * Decide whether to bring the class back together after studio time
     * Decide whether to hold a TF standup after class
+
 * Monitor and respond to student struggles
   * Look for signs of students struggling and falling behind
   * Use feedback from students and TFs to determine how to cover the topic more effectively.
   * Adjust examples and descriptions of topics as needed.
-* Manage and coach TFs
+
+* Serve as knowledgable resource for TFs.
 
 ## Teaching Fellows (TFs)
 
@@ -76,13 +83,17 @@ TFs will be assigned a group of students to guide.
   * Check on each student in your group at least once every class
   * Answer individual student questions
   * Help an individual student through a code problem
+
 * Monitor and respond to individual student struggles
   * Ask how the student feels about the current topic? Do they understand it?
   * Look at student submissions to see if the are attempting quizzes, exercises, and studios.
+
 * Facilitate studios and other small-group activities
   * Deliver the activities listed in Canvas
+
 * Grading
   * TFs are responsible for verifying student work and entering a grade into Canvas
+
 * Feedback
   * Provide the students specific and timely feedback on assignments, studios, and tasks
   * Provide ideas to the LaunchCode staff on how to make the course better
